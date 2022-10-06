@@ -8,7 +8,7 @@
 6) Open "wrapLNR.js" using txt editor and in Line 8 replace the word with your seed phrase
   const mnemonic = 'word word word word word word word word word word word word';
 7) Open "list.json" and replace the words with the words you want to wrap
-8) Type "node main.js" into Terminal/CMD (without the "")
+8) Type "node wrapLNR.js" into Terminal/CMD (without the "")
 
 This will create a wrapper, transfer to the wrapper and wrap the LNR
 
