@@ -12,4 +12,9 @@
 
 This will create a wrapper, transfer to the wrapper and wrap the LNR
 
+You can copy paste the results from 
+https://api.amalchandra.com/getEnrList/getList?address={replace with your address} 
+eg. https://api.amalchandra.com/getEnrList/getList?address=0x12345s78f1098754ab
+to "list.json" to wrap all the ones you own and registered 
+
 Donation welcome in "0xD5d9B062386Cefa6A9feE89f439253F04DaAd1d2"
