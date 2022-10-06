@@ -10,4 +10,6 @@
 7) Open "list.json" and replace the words with the words you want to wrap
 8) Type "node main.js" into Terminal/CMD (without the "")
 
+This will create a wrapper, transfer to the wrapper and wrap the LNR
+
 Donation welcome in "0xD5d9B062386Cefa6A9feE89f439253F04DaAd1d2"
