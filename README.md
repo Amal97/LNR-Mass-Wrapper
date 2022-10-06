@@ -9,3 +9,5 @@
   const mnemonic = 'word word word word word word word word word word word word';
 7) Open "list.json" and replace the words with the words you want to wrap
 8) Type "node main.js" into Terminal/CMD (without the "")
+
+Donation welcome in "0xD5d9B062386Cefa6A9feE89f439253F04DaAd1d2"
